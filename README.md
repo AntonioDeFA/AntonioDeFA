@@ -1,7 +1,7 @@
 ## Olá, sou Antônio Amorim!<br> Satisfação!
 
-- 🔭 Hoje trablaho como Analista de Dados
-- 🌱 Estudandoaplicações coporativas
+- 🔭 Hoje trabalho como Analista de Dados
+- 🌱 Estudando aplicações soporativas
 
 <div align="center">
   <a href="https://github.com/AntonioDeFA">
@@ -20,7 +20,7 @@
   <img align="center" alt="Antonio-Boostrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="Antonio-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div><br>
-## 🌐 Banco que estou familiarizado:
+## 🌐 Bancos de dados que estou familiarizado:
 <div><br>
    <img align="center" alt="Antonio-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Antonio-postgre" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
