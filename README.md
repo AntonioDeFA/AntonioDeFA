@@ -8,7 +8,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AntonioDeFA&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioDeFA&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
-  ## 💻 Tecnologias que estou familiarizado:
+  ## 💻 Tecnologias que já usei:
 <div style="display: inline_block"><br>
   <img align="center" alt="Antonio-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Antonio-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
@@ -20,7 +20,7 @@
   <img align="center" alt="Antonio-Boostrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
   <img align="center" alt="Antonio-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </div><br>
-## 🌐 Bancos de dados que estou familiarizado:
+## 🌐 SGBDs que já usei:
 <div><br>
    <img align="center" alt="Antonio-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Antonio-postgre" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
