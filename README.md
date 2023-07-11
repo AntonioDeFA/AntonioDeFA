@@ -1,7 +1,7 @@
 ## Olá, sou Antônio Amorim!<br> Satisfação!
 
 - 🔭 Hoje trabalho como Analista de Dados
-- 🌱 Estudando aplicações soporativas
+- 🌱 Estudando aplicações corporativas
 
 <div align="center">
   <a href="https://github.com/AntonioDeFA">
